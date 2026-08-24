@@ -2,4 +2,4 @@
 - 👨‍💻 I'm studing at COTIL - Developing of Systems
 - I am 21 years old.
 - My knowledge is about MySQL, C, C#, HTML, CSS, Bootstrap, a few of Node.js and React-Native.js
-- I want to be a Profissional Programmer and to be working on the good company.
+- I want to be a Profissional Programmer and working on the good company.
